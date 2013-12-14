@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- GNOME II build date-->
+    <string name="build_date">GNOME II build date</string>
+    <string name="build_date_default">2012-01-01-0000</string>
+
+    <!-- GNOME II version -->
+    <string name="gnome_version">GNOME II version</string>
+    <string name="gnome_version_default">x</string>
+
+    <!-- App Ops -->
+    <string name="appops_settings_title">App Privacy</string>
+
+</resources>
