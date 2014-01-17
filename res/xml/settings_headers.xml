@@ -170,6 +170,16 @@
             android:action="android.settings.ADD_ACCOUNT_SETTINGS"/>
     </header>
 
+    <!-- Nuke -->
+    <header
+        android:title="@string/header_category_interface" />
+    <!-- Options -->
+    <header
+        android:id="@+id/nuke_settings"
+        android:icon="@drawable/ic_settings_nuke"
+        android:fragment="com.android.settings.nuke.NukeSettings"
+        android:title="@string/nuke_settings_title" />
+
     <!-- SYSTEM -->
     <header android:id="@+id/system_section"
         android:title="@string/header_category_system" />

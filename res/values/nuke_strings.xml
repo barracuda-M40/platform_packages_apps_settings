@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Nuke build date-->
+    <string name="build_date">Nuke release</string>
+    <string name="build_date_default">2012-01-01-0000</string>
+
+    <!-- Nuke Setttings -->
+    <!-- Settings main menu category heading -->
+    <string name="header_category_interface">Nuke</string>
+    <!-- System Interface settings -->
+    <string name="nuke_settings_title">Options</string>
+    <string name="system_interface_title">Options</string>
+</resources>

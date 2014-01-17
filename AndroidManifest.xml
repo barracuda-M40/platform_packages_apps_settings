@@ -1697,6 +1697,10 @@
             </intent-filter>
         </activity>
 
+	<!-- Nuke Options Start -->
+	<activity android:name=".nuke.NukeSettings" />
+	<!-- Nuke Options End -->
+
         <receiver android:name=".widget.SettingsAppWidgetProvider"
                 android:label="@string/gadget_title"
                 android:exported="false"
